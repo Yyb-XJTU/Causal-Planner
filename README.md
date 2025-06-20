@@ -25,7 +25,7 @@
 
 
 ## TODO List
-Our paper is currently under review, and the code and checkpoints will be released gradually.
+Our paper has been accepted, and the code and checkpoints will be released gradually.
 - [x] Initial release
 - [ ] Training code
 - [ ] Pretrained checkpoints
@@ -122,11 +122,11 @@ pip install -r requirements.txt
 
 ```bash
 # Evaluation of the CLS-NR Metric
-./script/sim/scope/sim_scope_CLN.sh
+./script/sim/causal/sim_causal_CLN.sh
 # Evaluation of the CLS Metric
-./script/sim/scope/sim_scope_CLR.sh
+./script/sim/causal/sim_causal_CLR.sh
 # Evaluation of the OLS Metric
-./script/sim/scope/sim_scope_OL.sh
+./script/sim/causal/sim_causal_OL.sh
 ```
 
 
