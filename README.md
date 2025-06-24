@@ -1,4 +1,4 @@
-<h1 align="center"> Causal-Planner: Causal Interaction Disentangling with Episodic Memory Gating for Autonomous Planning </h1> 
+![image](https://github.com/user-attachments/assets/3b417e75-e834-4851-98f0-14db060473f4)![image](https://github.com/user-attachments/assets/60aaea08-a7a3-448b-8bce-63fbdddc7963)<h1 align="center"> Causal-Planner: Causal Interaction Disentangling with Episodic Memory Gating for Autonomous Planning </h1> 
 
 > - Yibo Yuan, Jianwu Fang, Yang Zhou, Zhao Yang, Chen Lv, Jianru Xue
 > - If you have any questions, please feel free to contact: *Yibo Yuan* (Yyb_XJTU@stu.xjtu.edu.cn)
@@ -25,7 +25,7 @@
 
 
 ## TODO List
-Our paper has been accepted, and the code and checkpoints will be released gradually.
+Our paper has been accepted by IROS 2025, and the code and checkpoints will be released gradually.
 - [x] Initial release
 - [ ] Training code
 - [ ] Pretrained checkpoints
